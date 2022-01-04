@@ -1,4 +1,4 @@
- Hi, I’m @sipione, I was born in 1995 (yea, I’m not a millennial generation ahahha). I started to learn programming in September 2021, why so late? Let me talk a little bit about me and my context.
+ Hi, I’m @sipione, I was born in 1995. I started to learn programming in September 2021, why so late? Let me talk a little bit about me and my context.
 
 MY ACADEMIC STEPS:
 Cause I’m a Master in law of company and contracts, with focus in compliance program and risk management using non-verbal language and social engineering. Thus, to study all of this a spent a lot of time of my life with an university to the bachelor, an immigration process to make my master degree; and I didn’t say nothing about choose a research area where no one write about :o It’s not easy, I used to publish articles to have someone (me) speaking about my topic and a I use it to my thesis. While I study I always used to work as internship, so I have experiences in the huge companies and small one also. 
