@@ -24,10 +24,10 @@ I was born in 1995 and I started to learn programming in September 2021.
 **:heavy_check_mark: Programming paradigms:** I work with object-oriented programming (OOP) and structured programming, although I'm more comfortable with oop.
 
 ## Currently studying: 
-:raised_hands: database modeling and Json Web Token
+:man_technologist: database modeling and Json Web Token
 
-## intend to study soon: 
-:telescope: C# and web security
+## intend to study soon (start date: 1st 08/22): 
+:rocket: C# and web security
 
 ## Let me talk a little bit about me and my context.
 
