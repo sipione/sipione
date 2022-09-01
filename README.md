@@ -26,8 +26,8 @@ I was born in 1995 and I started to learn programming in September 2021.
 ## Currently studying: 
 :man_technologist: database modeling and Json Web Token
 
-## intend to study soon (start date: 08/15/22): 
-:rocket: C# and web security
+## intend to study soon: 
+:rocket: React Native and Next
 
 ## Let me talk a little bit about me and my context.
 
