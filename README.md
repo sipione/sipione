@@ -13,27 +13,31 @@ I was born in 1995 and I started to learn programming in September 2021.
 
 **:heavy_check_mark: Markup Language:** HTML.
 
-**:heavy_check_mark: Technologies:** React js, React Native, Node, CMS headless,  ORM
+**:heavy_check_mark: Technologies:** Next js, React js, React Native, Node, CMS headless, ORM, Jason Web Token
 
 **:heavy_check_mark: Libs:** Sequelize, apollo server, apollo client, React-router-dom, styled-components, normalize, material-ui, tailwind-ui
 
-**:heavy_check_mark: Databases:** SQL(mysql, sqlite, postgre) or no-SQL(mongo db).
+**:heavy_check_mark: Databases:** SQL(mysql, sqlite, postgre) or no-SQL(mongo db), database modeling.
 
 **:heavy_check_mark: Design Patterns:** Model View Controller (MVC), factory method, mobile first, SOLID principles.
 
-**:heavy_check_mark: Programming paradigms:** I work with object-oriented programming (OOP) and structured programming, although I'm more comfortable with oop.
+**:heavy_check_mark: Programming paradigms:** I work with object-oriented programming (OOP) and structured programming.
+
 
 ## Currently studying: 
-:man_technologist: database modeling and Json Web Token
+:man_technologist: Django
 
 ## intend to study soon: 
-:rocket: React Native and Next
+:rocket: Security journey
+:rocket: AI with python
 
 ## Let me talk a little bit about me and my context.
 
 ### CURRENTLY:
 
-Nowadays I work as a freelancer building full-stack softwares, complete systems from side to side or a simple website. My work can change a bit considering the clients. The technology I most use in the front-end is React js or Native with their context API, redux, styled components, react-router-dom, that is, i use JavaScript as my main language. To consume the data in the front-end I can use GraphQL or the simple fetch in the REST API routes. To construct the back-end I'm able to use SQL or noSQL databases, such as MySQL, SQLite, MongoDB, and all this with or without  GRaphQL(I prefer with to avoid under and over fetching). To build the code i use to follow some design patterns, as i like to object oriented programming (POO), follow the SOLID principles, if make sense use Factory Pattern. If make sense aso write the code based in TDD for the tests.
+Currently working in a educational company with Next js and Node js.
+
+I've been worked as a freelancer building full-stack softwares, complete systems from side to side or a simple website. The work can change a bit considering the clients. The technology I most use in the front-end is React js or Native with their context API, redux, styled components, react-router-dom, that is, i use JavaScript as my main language. To consume the data in the front-end I can use GraphQL or the simple fetch in the REST API routes. To construct the back-end I'm able to use SQL or noSQL databases, such as MySQL, SQLite, MongoDB, and all this with or without  GRaphQL(I prefer with to avoid under and over fetching). To build the code i use to follow some design patterns, as i like to object oriented programming (POO), follow the SOLID principles, if make sense use Factory Pattern. If make sense aso write the code based in TDD for the tests.
 
 ### MY ACADEMIC STEPS:
 
