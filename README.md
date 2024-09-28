@@ -29,7 +29,6 @@ I was born in 1995 and I started to learn programming in September 2021.
 
 ## intend to study soon: 
 :rocket: Security journey
-:rocket: AI with python
 
 ## Let me talk a little bit about me and my context.
 
