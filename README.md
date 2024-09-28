@@ -25,7 +25,7 @@ I was born in 1995 and I started to learn programming in September 2021.
 
 
 ## Currently studying: 
-:man_technologist: Django
+:man_technologist: .Net8
 
 ## intend to study soon: 
 :rocket: Security journey
