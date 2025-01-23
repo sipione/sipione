@@ -2,7 +2,10 @@
 # Hello, I’m Ricardo Sipione
 Here you can find some informations about me, my projects are just after this readme :D 
 
-I was born in 1995 and I started to learn programming in September 2021.
+### My most recent open sorce personal project: Business Copilot
+#### Server: https://github.com/sipione/business-copilot-server
+#### Client: 
+
 
 ## What I already know:
 **:heavy_check_mark: Version control system:** Git GitHub.
